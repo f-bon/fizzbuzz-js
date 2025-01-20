@@ -12,3 +12,5 @@ function fizzbuzz() {
 
 // Now we run the main function...
 fizzbuzz();
+
+console.log('hello world')
